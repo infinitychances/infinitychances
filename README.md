@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi!
+I'm InfinityChances, a hobbyist programmer who mostly codes in java. 
+Most of my work centers around minecraft mods, but I do other things as well.
+
+Most of my projects can be found at my codeberg, [Infinitychances](https://codeberg.org/Infinitychances).
 
 <!--
 **infinitychances/infinitychances** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
